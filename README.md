@@ -31,3 +31,6 @@
 |생체대사생화학|탄수화물 단백질 지방 대사과정|3|
 |유전공학개론|DNA 대사과정|3|
 
+git hub adress : [JeongYoon-Kiim][github]
+
+[github];http://github.com/JeongYoon-Kim
