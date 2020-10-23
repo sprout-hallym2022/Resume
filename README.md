@@ -28,7 +28,7 @@
 |과목|내용|학점|
 |---|---|---|
 |Java Programming 1|Java 언어 개요|3|
-|생체대사생화학|탄수화물 단백질 지방 대사과정|3|
+|단백질생|탄수화물 단백질 지방 대사과정|3|
 |유전공학개론|DNA 대사과정|3|
 
 git hub adress : [JeongYoon-Kiim][github]
